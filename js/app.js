@@ -46,7 +46,7 @@
 
 // if (x >= 1 && x <= 8 && y >= 1 && y <= 8) {
 //     let x1 = x % 2
-//     let y1 = x % 2
+//     let y1 = y % 2
 //     if (x1 == 0 && y1 == 1 || x1 == 0 && y1 == 1) {
 //         console.log(`${x} , ${y} maydon oq`);
 //     } else {
